@@ -4,7 +4,7 @@
 The goal is to build and compare classifcation models that can accurately predict which clients are likely to subscribe to a term deposit based on a list of selected features. 
 
 ## Data:
-The dataset explored comes from the UCI Machine Learning repository and is related with direct marketing campaigns of a Portuguese banking institutions. More specifically, the dataset covers seventeen campaigns that occurred between May 2008 and November 2010. For more details, please refer to the following notebook: [Notebook]()
+The dataset explored comes from the UCI Machine Learning repository and is related with direct marketing campaigns of a Portuguese banking institutions. More specifically, the dataset covers seventeen campaigns that occurred between May 2008 and November 2010. For more details, please refer to the following notebook: [Notebook](https://github.com/ahleung2/Comparing-Classifiers/blob/main/Leung_Aaron_Comparing_Classifiers.ipynb)
 
 ## Findings: 
 - There is **significant class imbalance** in the target variable which can affect the performances of the classification models. 
